@@ -1,0 +1,5 @@
+{
+  "name": "CipherChat",
+  "description": "A privacy-focused chat simulation and security advisor. Experience a secure messenger interface, visualize encryption, and get AI-powered recommendations for real-world private communication tools.",
+  "requestFramePermissions": []
+}

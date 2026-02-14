@@ -1,0 +1,21 @@
+{
+  "name": "CipherChat Secure Messenger",
+  "short_name": "CipherChat",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121215",
+  "theme_color": "#121215",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/246/246117.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/246/246117.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
